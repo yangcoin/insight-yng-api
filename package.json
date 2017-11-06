@@ -2,7 +2,7 @@
     "name": "insight-api",
     "description": "A Bitcoin blockchain REST and web socket API service for Bitcore Node.",
     "version": "0.4.3",
-    "repository": "git://github.com/bitchk-wallet/insight-api.git",
+    "repository": "git://github.com/yangcoin/insight-api.git",
     "contributors": [{
             "name": "Gustavo Cortez",
             "email": "cmgustavo83@gmail.com"
@@ -37,9 +37,9 @@
         }
     ],
     "bugs": {
-        "url": "https://github.com/bitchk-wallet/insight-api/issues"
+        "url": "https://github.com/yangcoin/insight-api/issues"
     },
-    "homepage": "https://github.com/bitchk-wallet/insight-api",
+    "homepage": "https://github.com/yangcoin/insight-api",
     "license": "MIT",
     "keywords": [
         "insight",
@@ -60,8 +60,8 @@
     "bitcoreNode": "lib",
     "dependencies": {
         "async": "*",
-        "bitcore-lib": "https://github.com/bitchk-wallet/bitcore-lib.git#bitchk",
-        "bitcore-message": "https://github.com/bitchk-wallet/bitcore-message.git",
+        "bitcore-lib": "https://github.com/yangcoin/yangcore-lib",
+        "bitcore-message": "https://github.com/yangcoin/bitcore-message.git",
         "body-parser": "^1.13.3",
         "compression": "^1.6.1",
         "lodash": "^4.17.4",
