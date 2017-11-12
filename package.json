@@ -1,10 +1,9 @@
 {
-    "name": "insight-api",
+    "name": "insight-yng-api",
     "description": "A Bitcoin blockchain REST and web socket API service for Bitcore Node.",
     "version": "0.4.3",
     "repository": "git://github.com/yangcoin/insight-api.git",
-    "contributors": [
-        {
+    "contributors": [{
             "name": "Gustavo Cortez",
             "email": "cmgustavo83@gmail.com"
         },
